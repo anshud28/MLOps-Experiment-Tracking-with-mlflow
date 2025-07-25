@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/models/m-0fbd32691af34ab5b38ed165afba2aee/artifacts
+creation_timestamp: 1753456677977
+experiment_id: '461981878208549284'
+last_updated_timestamp: 1753456683650
+model_id: m-0fbd32691af34ab5b38ed165afba2aee
+model_type: ''
+name: Random-Forest-Model
+source_run_id: 64de49022eff43a3a8429d86bf20762f
+status: 2
+status_message: null

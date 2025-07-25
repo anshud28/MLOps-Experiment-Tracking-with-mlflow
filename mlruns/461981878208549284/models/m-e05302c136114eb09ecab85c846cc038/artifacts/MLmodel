@@ -1,0 +1,22 @@
+artifact_path: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/models/m-e05302c136114eb09ecab85c846cc038/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-e05302c136114eb09ecab85c846cc038
+model_size_bytes: 11596
+model_uuid: m-e05302c136114eb09ecab85c846cc038
+prompts: null
+run_id: e8c36d55a0e04795a236fcb5ee8a2206
+utc_time_created: '2025-07-25 15:12:21.344517'

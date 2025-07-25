@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/545200269427663459/e3226ba926c24cdaaef1946af9241635/artifacts
+end_time: 1753457315874
+entry_point_name: ''
+experiment_id: '545200269427663459'
+lifecycle_stage: active
+run_id: e3226ba926c24cdaaef1946af9241635
+run_name: abundant-finch-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753457307911
+status: 3
+tags: []
+user_id: '14372'

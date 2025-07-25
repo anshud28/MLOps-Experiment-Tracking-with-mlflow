@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/346849656494571987/7ddd0523ab454d5e9be7d72211f18d38/artifacts
+end_time: 1753457254991
+entry_point_name: ''
+experiment_id: '346849656494571987'
+lifecycle_stage: active
+run_id: 7ddd0523ab454d5e9be7d72211f18d38
+run_name: skittish-hound-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753457248494
+status: 3
+tags: []
+user_id: '14372'

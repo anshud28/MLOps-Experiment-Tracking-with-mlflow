@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/8e8b639fa41842d39c7b557bf8079934/artifacts
+end_time: 1753455727940
+entry_point_name: ''
+experiment_id: '461981878208549284'
+lifecycle_stage: active
+run_id: 8e8b639fa41842d39c7b557bf8079934
+run_name: fearless-snake-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753455718296
+status: 3
+tags: []
+user_id: '14372'

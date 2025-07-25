@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/models/m-1bb1d7b0c29149a19f3d46f3658101f9/artifacts
+creation_timestamp: 1753461121526
+experiment_id: '461981878208549284'
+last_updated_timestamp: 1753461131214
+model_id: m-1bb1d7b0c29149a19f3d46f3658101f9
+model_type: ''
+name: model
+source_run_id: f95489380cf1484bb53a84c1c876c9c9
+status: 2
+status_message: null

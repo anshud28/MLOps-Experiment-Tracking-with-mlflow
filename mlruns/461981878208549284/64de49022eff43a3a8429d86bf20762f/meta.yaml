@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/64de49022eff43a3a8429d86bf20762f/artifacts
+end_time: 1753456683657
+entry_point_name: ''
+experiment_id: '461981878208549284'
+lifecycle_stage: active
+run_id: 64de49022eff43a3a8429d86bf20762f
+run_name: respected-sheep-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753456677551
+status: 3
+tags: []
+user_id: '14372'

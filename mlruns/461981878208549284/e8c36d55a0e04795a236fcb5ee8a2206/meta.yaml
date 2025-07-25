@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/e8c36d55a0e04795a236fcb5ee8a2206/artifacts
+end_time: 1753456347540
+entry_point_name: ''
+experiment_id: '461981878208549284'
+lifecycle_stage: active
+run_id: e8c36d55a0e04795a236fcb5ee8a2206
+run_name: delicate-grouse-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753456340972
+status: 3
+tags: []
+user_id: '14372'

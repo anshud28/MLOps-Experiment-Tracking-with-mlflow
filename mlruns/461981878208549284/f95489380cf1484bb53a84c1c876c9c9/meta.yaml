@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/f95489380cf1484bb53a84c1c876c9c9/artifacts
+end_time: 1753461131975
+entry_point_name: ''
+experiment_id: '461981878208549284'
+lifecycle_stage: active
+run_id: f95489380cf1484bb53a84c1c876c9c9
+run_name: aged-whale-968
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753461121358
+status: 3
+tags: []
+user_id: '14372'

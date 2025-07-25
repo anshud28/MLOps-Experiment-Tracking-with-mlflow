@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/461981878208549284/d21ea0b7b6364779b073b6dad771d62a/artifacts
+end_time: 1753457093634
+entry_point_name: ''
+experiment_id: '461981878208549284'
+lifecycle_stage: active
+run_id: d21ea0b7b6364779b073b6dad771d62a
+run_name: tasteful-donkey-52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753457087735
+status: 3
+tags: []
+user_id: '14372'
