@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/ce8b7fb24cb64404a6b05f9b803d0b5d/artifacts
+end_time: 1753462026972
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: ce8b7fb24cb64404a6b05f9b803d0b5d
+run_name: judicious-cat-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462026937
+status: 3
+tags: []
+user_id: '14372'

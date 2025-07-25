@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/d56c57cfa6b448a4b196f01fc3dee0db/artifacts
+end_time: 1753462027063
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: d56c57cfa6b448a4b196f01fc3dee0db
+run_name: luminous-worm-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027026
+status: 3
+tags: []
+user_id: '14372'

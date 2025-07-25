@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/370f178739cc4f0997881dd7b8a59d0a/artifacts
+end_time: 1753462027320
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 370f178739cc4f0997881dd7b8a59d0a
+run_name: abundant-gnat-573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027287
+status: 3
+tags: []
+user_id: '14372'

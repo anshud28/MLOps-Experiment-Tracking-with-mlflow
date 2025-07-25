@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/de85169adf0f4b7486799bb2fc3f871d/artifacts
+end_time: 1753462027193
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: de85169adf0f4b7486799bb2fc3f871d
+run_name: placid-mare-259
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027157
+status: 3
+tags: []
+user_id: '14372'

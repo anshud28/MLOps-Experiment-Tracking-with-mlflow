@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/11ece85074b5469fb689f9af5cffe040/artifacts
+end_time: 1753462026882
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 11ece85074b5469fb689f9af5cffe040
+run_name: smiling-ram-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462026843
+status: 3
+tags: []
+user_id: '14372'

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/4c15b3310121429d9f2a5f893c5d2a8c/artifacts
+end_time: 1753462035034
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 4c15b3310121429d9f2a5f893c5d2a8c
+run_name: incongruous-colt-46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462018108
+status: 3
+tags: []
+user_id: '14372'

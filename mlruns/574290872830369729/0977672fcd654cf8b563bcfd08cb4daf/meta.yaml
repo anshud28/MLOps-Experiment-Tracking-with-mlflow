@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/0977672fcd654cf8b563bcfd08cb4daf/artifacts
+end_time: 1753462027105
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 0977672fcd654cf8b563bcfd08cb4daf
+run_name: big-ape-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027072
+status: 3
+tags: []
+user_id: '14372'

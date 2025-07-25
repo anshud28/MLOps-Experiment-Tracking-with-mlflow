@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/7a6315ef80664aaabbad12a015503ccd/artifacts
+end_time: 1753462027278
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 7a6315ef80664aaabbad12a015503ccd
+run_name: suave-sow-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027244
+status: 3
+tags: []
+user_id: '14372'

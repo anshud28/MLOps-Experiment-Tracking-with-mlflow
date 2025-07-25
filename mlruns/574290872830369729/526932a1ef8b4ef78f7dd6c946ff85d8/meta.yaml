@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/526932a1ef8b4ef78f7dd6c946ff85d8/artifacts
+end_time: 1753462027236
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 526932a1ef8b4ef78f7dd6c946ff85d8
+run_name: receptive-ape-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027203
+status: 3
+tags: []
+user_id: '14372'

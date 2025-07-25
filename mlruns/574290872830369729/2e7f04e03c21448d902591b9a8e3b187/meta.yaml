@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/2e7f04e03c21448d902591b9a8e3b187/artifacts
+end_time: 1753462026928
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: 2e7f04e03c21448d902591b9a8e3b187
+run_name: righteous-worm-904
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462026891
+status: 3
+tags: []
+user_id: '14372'

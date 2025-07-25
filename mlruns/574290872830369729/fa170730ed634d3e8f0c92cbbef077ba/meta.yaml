@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/fa170730ed634d3e8f0c92cbbef077ba/artifacts
+end_time: 1753462027362
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: fa170730ed634d3e8f0c92cbbef077ba
+run_name: invincible-tern-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027329
+status: 3
+tags: []
+user_id: '14372'

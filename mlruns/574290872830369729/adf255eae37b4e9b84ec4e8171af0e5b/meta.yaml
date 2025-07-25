@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Anshu-Data%20Science/1-MLOPS/MLOps-Experiment-Tracking-with-mlflow/mlruns/574290872830369729/adf255eae37b4e9b84ec4e8171af0e5b/artifacts
+end_time: 1753462027147
+entry_point_name: ''
+experiment_id: '574290872830369729'
+lifecycle_stage: active
+run_id: adf255eae37b4e9b84ec4e8171af0e5b
+run_name: magnificent-moth-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753462027113
+status: 3
+tags: []
+user_id: '14372'
